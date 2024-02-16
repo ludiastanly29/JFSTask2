@@ -3,7 +3,7 @@ package javalearning;
 public class Person {
 	
 	private String name;
-	private static int age =18;
+	private int age =18;
 	
 	
 	public Person() {
